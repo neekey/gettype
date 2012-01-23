@@ -6,10 +6,12 @@ A simple tool to get the real format of a binary file(Currently only `png|jpeg|g
 
 ###Install 安装
 
+`npm install gettype`
+
 ###Usage 使用
 
-var GetType = require( 'getType' );
-var pathToParse = 'images/jpeg.jpg';
+	var GetType = require( 'getType' );
+	var pathToParse = 'images/jpeg.jpg';
 
 	GetType.parse( pathToParse, function( err, type ){
 	
