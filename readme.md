@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/neekey/gettype.png)](http://travis-ci.org/neekey/gettype)
 ##GetType
 
 A simple tool to get the real format of a binary file(Currently only `png|jpeg|gif|bmp`)
